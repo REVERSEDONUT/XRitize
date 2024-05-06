@@ -1,1 +1,1 @@
-# XRitize
+# xritize
